@@ -1,0 +1,9 @@
+Question 8:
+Explain why the following code works without declaration:
+x = 100
+
+Compare it with C or Java
+
+Answer: x = 100 with this, python create an integer variable as python is dynamically typed variable the type is decided based on value. This is a code that is self executable as it is independant statement and hence no error occurs.
+
+If compared with c or java, we need to first state the data type of variable and then later same data type value can be given to variable. 

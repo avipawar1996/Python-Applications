@@ -1,0 +1,8 @@
+Question: Explain how Python manages memory automatically.
+Why does the programmer does not need to explicitely allocate or free the memory?
+
+Solution: Python application when starts execution the portion of memory is allocation to PVM to run the PVM related internal code. It then allocate portion of memory to variables from heap and also keep itself running using memory allocated. If needed more memory, it requests more memory to OS and then OS to microprocessor and so the PVM memory allocation is happening. 
+
+Also AGC that is automatic Garbage Collector periodically checks the heap location with zero reference count that is variable no longer needed. If such unused references found, AGC frees the memory of such variable.
+
+This is being done automatically by PVM and more specifically by AGC for freeing up the memory.

@@ -1,0 +1,9 @@
+Question 9:
+
+x = 10
+x = "10"
+
+Is this allowed? Why?
+
+Solution:
+Yes, this is allowed, reason is python is dynamically typed language. Data type of a variable can be changed in python.
