@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+ Files Deleted: 
+D:\Python\Git\Assignments\Assignment 032\05_Delete_Empty_Files_From_Given_Dir\Master\A1.txt
+D:\Python\Git\Assignments\Assignment 032\05_Delete_Empty_Files_From_Given_Dir\Master\F1\A1.txt
+D:\Python\Git\Assignments\Assignment 032\05_Delete_Empty_Files_From_Given_Dir\Master\F1\A2.txt
+D:\Python\Git\Assignments\Assignment 32\05_Delete_Empty_Files_From_Given_Dir\Master\F1\F2\B1.txt
+D:\Python\Git\Assignments\Assignment 032\05_Delete_Empty_Files_From_Given_Dir\Master\F1\F2\B2.txt
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Files Deleted: 
+ No files deleted, size not 0 Byte 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Files Deleted: 
+ No files deleted, size not 0 Byte 
+--------------------------------------------------------------------------------
