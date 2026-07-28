@@ -1,0 +1,31 @@
+
+========================================================================================
+============================== Disk Sanitizer Run Started ==============================
+========================================================================================
+
+
+Scan Started at: 28-07-2026 02:45:07 PM
+Email Address validation is successful.
+
+Path of directory scanned: 'D:\Python\Git\Assignments\Assignment 033\A'
+Number of files scanned: 3
+
+
+---------------------------- Duplicate File Deletion Status ----------------------------
+
+Deleted File: 'D:\Python\Git\Assignments\Assignment 033\A\2'
+File Checksum: d41d8cd98f00b204e9800998ecf8427e
+
+----------------------------------------------------------------------------------------
+Deleted File: 'D:\Python\Git\Assignments\Assignment 033\A\3'
+File Checksum: d41d8cd98f00b204e9800998ecf8427e
+
+----------------------------------------------------------------------------------------
+Total number of duplicate files found: 2
+
+Scan Completed at: 28-07-2026 02:45:07 PM
+Email state: Sent
+
+========================================================================================
+===============================  Directory Scan Completed  =============================
+========================================================================================
