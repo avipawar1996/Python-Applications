@@ -1,17 +1,14 @@
+import email_validator
 import smtplib
 import ssl
-from email_validator import validate_email, EmailNotValidError
-
 from email.message import EmailMessage
 
 def validate_email(email):
     try:
+        email_validator.validate_email(email)
         return True
-
-    except EmailNotValidError as e:
+    except email_validator.EmailNotValidError as e:
         return False
-
-    
 
 def send_email(sender_email, password, rec_email, subject, body, attachments=None):
 

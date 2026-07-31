@@ -310,7 +310,7 @@ def main():
             printBorder("Thank You for using Disk Sanitizer")
             return
 
-    elif(len(sys.argv) == 4):
+    if(len(sys.argv) == 4):
 
         # Collecting command line arguments for directory path and interval
         dir_path = sys.argv[1]
@@ -338,7 +338,7 @@ def main():
 
     else:
         print_invalid(sys.argv[0])
-        printBorder("\n\nThank You for using Disk Sanitizer")
+        printBorder("Thank You for using Disk Sanitizer")
     return
 
 
